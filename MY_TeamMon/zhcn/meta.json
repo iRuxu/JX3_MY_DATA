@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
+  "name": "浮烟PVE",
+  "author": "浮烟",
+  "version": "20190817",
   "data_url": "./data.jx3dat",
-  "about": "../README.md"
+  "about": "./README.md"
 }
